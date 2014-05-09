@@ -2,11 +2,16 @@
   "name": "ps2wss",
   "version": "0.0.0",
   "description": "",
+  "keywords": ["Planetside", "WebSocket"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/papg/ps2wss"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Phillip Gibson <phil@papg.net>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "ws": "~0.4.31"
