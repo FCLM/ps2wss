@@ -1,8 +1,11 @@
 {
   "name": "ps2wss",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
-  "keywords": ["Planetside", "WebSocket"],
+  "keywords": [
+    "Planetside",
+    "WebSocket"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/papg/ps2wss"
